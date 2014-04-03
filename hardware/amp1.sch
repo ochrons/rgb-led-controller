@@ -1459,5 +1459,5 @@ F 3 "" H 1000 700 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 Text Notes 7350 7550 0    60   ~ 0
-Amplifier circuit for 15+1 RGB LED strips.
+Amplifier circuit for 15 +1 LED strips.
 $EndSCHEMATC
